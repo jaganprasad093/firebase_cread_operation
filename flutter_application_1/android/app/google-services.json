@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "27433387060",
+    "project_id": "sampleproject-fcac8",
+    "storage_bucket": "sampleproject-fcac8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27433387060:android:761402183ae2110d107661",
+        "android_client_info": {
+          "package_name": "com.luminartechnolab.sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3JISgSQQv90H3WwoqrgckuB8dDWOg-J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
